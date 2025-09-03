@@ -10,7 +10,7 @@ sudo install -m 0755 "$HOME/.cummit/cummit.sh" /usr/local/bin/cummit
 ```
 
 ## Usage
-##### Before
+#### Before
 ```bash
 git add .
 
@@ -19,7 +19,7 @@ git commit -m "Updated README.md"
 git push
 ```
 
-##### After
+#### After
 ```bash
 cummit "Updated README.md"
 ```
